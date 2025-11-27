@@ -57,6 +57,4 @@ Volatility Clustering and Heteroscedasticity: Returns tend to show volatility cl
 Structural Breaks and Market Regime Changes: Sudden market shifts or external shocks can affect model stability and reduce forecasting reliability.
 
 Limited Predictability: Due to efficient market hypothesis, financial markets often behave near-randomly, limiting the achievable accuracy of any model.
----
-
-Would you like me to make a **shorter version (≈5 lines)** for adding directly to your CV or project section?
+--
